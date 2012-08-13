@@ -1,5 +1,5 @@
 {
-    "name": "whiteoctober/tcpdf-bundle",
+    "name": "kimausloos/tcpdf-bundle",
     "type": "symfony-bundle",
     "description": "A bundle to easily integrate TCPDF into Symfony2",
     "keywords": ["pdf", "tcpdf"],
